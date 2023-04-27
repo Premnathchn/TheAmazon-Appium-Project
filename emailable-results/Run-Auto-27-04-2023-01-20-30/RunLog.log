@@ -1,0 +1,7 @@
+2023-04-27 13:20:30,405  INFO [main] RunManager:22 - Hey! premn, Logging everything from here ....
+2023-04-27 13:20:30,407  INFO [main] RunManager:23 - Run ID is --> Run-Auto-27-04-2023-01-20-30
+2023-04-27 13:20:30,507  INFO [main] StepsBase:16 - Executing S C E N A R I O : Verify able to navigate to the Cart section of Amazon.com
+2023-04-27 13:20:41,217  INFO [main] Keywords:47 - Application launched
+2023-04-27 13:20:41,526  INFO [main] Keywords:54 - Application 'https://amazon.com' started
+2023-04-27 13:20:41,809  INFO [main] Keywords:61 - Application closed
+2023-04-27 13:20:42,181  INFO [main] Test:48 - Report generates @ emailable-results\Run-Auto-27-04-2023-01-20-30/Automation-Dashboard.html
